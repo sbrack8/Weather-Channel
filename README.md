@@ -1,0 +1,2 @@
+I created a 5-day weather forcast app. Within this app user are able to view a weekly forceast for any searched city. HTML, JavaScript, and CSS were used to create the weather app. This app includes: location, temparature, windspeed, and UV index.
+This project also features 3 APIS; current weather, 5-day forecast, and UV index. Local storage was also created to save history of searched cities. 
